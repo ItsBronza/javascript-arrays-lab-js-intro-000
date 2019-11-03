@@ -18,5 +18,5 @@ kittens.shift();
 }
 
 function appendKitten(name){
-kittens.slice(name);
+return [...kittens, name];
 }
