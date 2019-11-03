@@ -26,5 +26,5 @@ return[name, ...kittens];
 }
 
 function removeLastKitten(){
-  
+
 }
